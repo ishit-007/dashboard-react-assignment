@@ -1,6 +1,5 @@
 ## ***DEMO***
 
-https://github.com/ritvikmahajan17/board-dashboard/assets/56093481/d2447b28-62c6-4603-8c12-b770d2fff562
 
 ## Getting Started
 
@@ -11,7 +10,7 @@ To use this React app, follow these steps:
 2. **Clone the Repository**: Once you have Node.js installed, you need to clone this repository to your local machine. You can do this by clicking the "Clone" button on the repository page and copying the provided URL. Then, open a terminal or command prompt, navigate to the desired directory, and run the following command:
 
    ```bash
-   git clone https://github.com/ritvikmahajan17/board-dashboard
+   git clone https://github.com/ishit-007/dashboard-react-assignment.git
    
 3. **Install Dependencies**: After cloning the repository, navigate into the project folder using the terminal or command prompt. Run the following command to install the required dependencies:
 
