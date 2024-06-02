@@ -6,3 +6,4 @@ export {Meetings as Meetings} from "./Meetings";
 export {Sidebar as Sidebar} from "./Sidebar";
 export {Navbar as Navbar} from "./Navbar";
 export {Cards as Cards} from "./Cards";
+export {ReactCalendar as Calendar} from "./Calendar";

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import { Dashboard, LoginPage } from "./pages";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import ProtectedRoute from "./utils/ProtectedRoutes";
+// import ProtectedRoute from "./utils/ProtectedRoutes";
 
 function App() {
   const [profilePicture, setProfilePicture] = useState<string>("");
@@ -18,9 +18,9 @@ function App() {
           <Route
             path="/dashboard"
             element={
-              <ProtectedRoute>
-                <Dashboard profilePicture={profilePicture} />{" "}
-              </ProtectedRoute>
+              // <ProtectedRoute>
+              <Dashboard profilePicture={profilePicture} />
+            
             }
           />
         </Routes>

@@ -5,8 +5,12 @@ import schedules_icon from "../../assets/schedule_icon.svg";
 import users_icon from "../../assets/user_icon.svg";
 import settings_icon from "../../assets/setting_icon.svg";
 
-export const Sidebar = () => {
+interface SidebarProps{
+  handleOpen:()=>void;
+}
+export const Sidebar = ({handleOpen}:SidebarProps) => {
   const handleTabClick = (e: any) => {
+    handleOpen();
     const ele = e.target as HTMLDivElement;
     const tabs = document.getElementById("tabs");
     tabs?.childNodes.forEach((child) => {
@@ -18,7 +22,7 @@ export const Sidebar = () => {
 
   return (
     <div className="rounded-[30px] min-w-[13rem] lg:w-[20vw]  lg:max-w-[17.5rem]   bg-black">
-      <div className="flex flex-col gap-y-[60px] justify-between text-white h-full py-14 px-7 custom:px-14 2xl:px-7 ">
+      <div className="flex flex-col gap-y-[60px] justify-between text-white h-full py-14 px-7 custom:px-14 2xl:px-7 h-100">
         <div className=" flex flex-col gap-y-[60px]">
           <div className="text-4xl font-bold cursor-pointer font-montserrat">
             Board.
