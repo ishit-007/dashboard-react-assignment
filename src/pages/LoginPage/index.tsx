@@ -40,7 +40,7 @@ export const LoginPage = ({ setProfilePicture }: LoginPageProps) => {
               Sign in to your account
             </div>
             <div className="pt-[30px] w-full flex gap-x-[25px] items-center justify-between">
-              <GoogleOAuthProvider clientId="253371619279-kqb3hktgs16fsnbt05uagh5acp8j94b0.apps.googleusercontent.com">
+              <GoogleOAuthProvider clientId="392011615541-1ck9j46kq0fgfjmvjtg6927nupmthk9t.apps.googleusercontent.com">
                 <GoogleLogin
                   onSuccess={async (credentialResponse) => {
                     console.log("Login Success");
