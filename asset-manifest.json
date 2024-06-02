@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dashboard-react-assignment/static/css/main.09ba8043.css",
+    "main.js": "/dashboard-react-assignment/static/js/main.f258726d.js",
+    "static/js/787.545aecf5.chunk.js": "/dashboard-react-assignment/static/js/787.545aecf5.chunk.js",
+    "static/media/setting_icon.svg": "/dashboard-react-assignment/static/media/setting_icon.203aedc851505140ec3678d398d4f9a5.svg",
+    "static/media/camera.svg": "/dashboard-react-assignment/static/media/camera.7163d1e5f1d77175fce4493e139fb168.svg",
+    "static/media/tags.svg": "/dashboard-react-assignment/static/media/tags.095e088a9dbe27e7dc97dbf02ee72782.svg",
+    "static/media/transaction_icon.svg": "/dashboard-react-assignment/static/media/transaction_icon.c7a825375289a5b32a8b4bde593fbd60.svg",
+    "static/media/total_transactions_icon.svg": "/dashboard-react-assignment/static/media/total_transactions_icon.2a4a62c6198de27c215dc0e578f5de37.svg",
+    "static/media/user_icon.svg": "/dashboard-react-assignment/static/media/user_icon.513a8a0c30c17cb42ae494035f9ad2ad.svg",
+    "static/media/dashboard_icon.svg": "/dashboard-react-assignment/static/media/dashboard_icon.7d63e277a685f12c20f41a2e6601bc17.svg",
+    "static/media/likes.svg": "/dashboard-react-assignment/static/media/likes.2b5c85f3dadb945573dbb4f546ab562d.svg",
+    "static/media/schedule_icon.svg": "/dashboard-react-assignment/static/media/schedule_icon.9c6181fc071a3bc81828e232cab0fba9.svg",
+    "static/media/notif.svg": "/dashboard-react-assignment/static/media/notif.98cdc56d74f2e493f8fff4878cbc7920.svg",
+    "static/media/apple.svg": "/dashboard-react-assignment/static/media/apple.b647c4fe207ebd7e68f450a5d9106c2a.svg",
+    "index.html": "/dashboard-react-assignment/index.html",
+    "static/media/chevron-down.svg": "/dashboard-react-assignment/static/media/chevron-down.89de82ac6a8eee4727d25c7a9148ba0c.svg",
+    "static/media/chevron-right.svg": "/dashboard-react-assignment/static/media/chevron-right.a52a0390dd968efd7747a78b32052811.svg",
+    "static/media/Search_icon.svg": "/dashboard-react-assignment/static/media/Search_icon.8513f4d8b9733dc777a4c3561d287cf3.svg",
+    "main.09ba8043.css.map": "/dashboard-react-assignment/static/css/main.09ba8043.css.map",
+    "main.f258726d.js.map": "/dashboard-react-assignment/static/js/main.f258726d.js.map",
+    "787.545aecf5.chunk.js.map": "/dashboard-react-assignment/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ba8043.css",
+    "static/js/main.f258726d.js"
+  ]
+}
